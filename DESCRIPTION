@@ -28,8 +28,8 @@ License: Unlimited
 VignetteBuilder: knitr
 NeedsCompilation: yes
 Type: Package
-Packaged: 2021-02-07 23:26:36 UTC; josem
+Packaged: 2022-06-17 17:16:13 UTC; carlos
 Repository: CRAN
-Date/Publication: 2021-02-09 00:40:18 UTC
+Date/Publication: 2022-06-17 23:40:09 UTC
 RoxygenNote: 7.1.1
 Encoding: UTF-8
